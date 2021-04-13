@@ -17,6 +17,7 @@ var fewestCoins = function(coins, amount) {
   coins.sort((a,b) => (a-b));
   let denomination = coins.length - 1;
   let count = 0;
+  
 
   while (denomination >= 0) {
     while (amount >= coins[denomination]) {
