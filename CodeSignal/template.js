@@ -17,7 +17,7 @@ let testfunc = function() {
 // console.log(input + ': ' + result);
 
 // input = [];
-// result = ();
+// result = func(input);
 // console.log(input + ': ' + result);
 
 // let input = [
