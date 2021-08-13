@@ -19,7 +19,7 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "program": "${workspaceFolder}/apr2021/w4/countSubstring.js"
+      "program": "${workspaceFolder}/aug2021/w2/groupAnagrams.js"
     }
   ]
 }
